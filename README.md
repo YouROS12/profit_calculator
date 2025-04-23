@@ -66,7 +66,7 @@ Follow these steps to run the application locally:
     Make sure your virtual environment is activated. Navigate to the project directory in your terminal and run:
     ```bash
     # IMPORTANT: Replace 'your_app_script.py' with the actual name of your Python script
-    # (e.g., vitasana_simulator.py or app.py)
+    # (e.g., profit_calculator.py or app.py)
     streamlit run your_app_script.py
     ```
 
