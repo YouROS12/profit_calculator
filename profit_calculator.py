@@ -360,7 +360,7 @@ if projection_start_orders is not None:
             "Total_Profit": "MAD {:,.2f}", "End_Cumulative_Profit": "MAD {:,.2f}",
         }).hide(axis="index"))
 
-        st.subheader(" görselleştirmeler ") # Visualizations
+        st.subheader("Visualizations") # Visualizations
         viz_col1, viz_col2 = st.columns(2)
         with viz_col1:
             st.markdown("**Monthly Profit Trend**")
